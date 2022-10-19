@@ -42,7 +42,7 @@ namespace AdventDay1
 
             //Part 2 Loop
 
-            Console.WriteLine(" BATCH TIME BITCH");
+            Console.WriteLine(" BATCH TIME");
 
             var BatchIncreased = 0;
 
